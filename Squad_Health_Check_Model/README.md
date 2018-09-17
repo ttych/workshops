@@ -29,7 +29,13 @@ Quarterly seems to be a good starting point though.
 
 # Run it
 
-51min30
+|    | 1 hour | 2 hours |
+| -- | ------ | ------- |
+| Set the Stage           | 5min | 15min |
+| Gather Data             | 27min | 30min |
+| Generate Insights       | 16min | 30min |
+| Decide What to Do       | 5min | 30min |
+| Close the Retrospective | 2min | 15min |
 
 ## Set the Stage
 
@@ -42,18 +48,23 @@ The exercise :
 - use **health check model** name instead of **maturity**.
 - be clear about your motives for introducing the model. It should about
 improvement, not judgement.
-- Present the current (11) criteria (2min)
+- Present the current (11) criteria (3min)
 - Present the voting method (1min)
   - Green = happy with current situation (!= perfect situation) ; no need to improve now
   - Orange = real problem to be handled, but not urgent now
   - red = doesn't work, and should be handled as soon as possible
 
-2min + 1min = 3min
+Update the topics ? (1min)
+- remove irrelevant topic ?
+- miss a specific area ?
+
+3min + 1min + 1min = 4min
 
 ## Gather Data
 
 For each criteria (2min / criteria) do :
 - read the criteria & examples (green, red)
+- every participant decided for themselves
 - the team vote for a color
 - the team choose a tendency (better, stable, worse)
 
