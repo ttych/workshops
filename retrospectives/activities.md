@@ -25,7 +25,7 @@ replace checking in step with an activity.
 
 | Phase                   | Activity                                       | Iteration | Release (or Longer Iteration) | End of Project | Duration |
 |-------------------------|----------------------------------------------- |-----------|-------------------------------|----------------|----------|
-| Set the Stage           | Check-in                                       | X         |                               |                | 5-10 min
+| Set the Stage           | [Check-in](activities/check-in.md)             | X         |                               |                | 5-10 min
 |                         | Focus On/Focus Off                             | X         | X                             |                | 8-12 min
 |                         | ESVP                                           |           | X                             | X              | 10-15 min
 |                         | Working Agreements                             | X         | X                             | X              | 10-30 min
@@ -39,7 +39,7 @@ replace checking in step with an activity.
 |                         | Satisfaction Histogram                         | X         |                               |                | 5-10 min
 |                         | Team Radar                                     | X         | X                             | X              | 15-20 min
 |                         | Like To Like                                   | X         | X                             | X              | 30-40 min
-| Generate Insights       | Brainstorming/Filtering                        | X         | X                             | X              | 40-60 min
+| Generate Insights       | [Brainstorming/Filtering](activities/brainstorming__filtering.md) | X         | X                             | X              | 40-60 min
 |                         | Force Field Analysis                           |           | X                             | X              | 45-60 min
 |                         | 5 Whys                                         | X         | X                             | X              | 15-20 min
 |                         | Fishbone                                       | X         | X                             | X              | 30-60 min
